@@ -6,3 +6,5 @@ Exploring molecular docking pipeline using ChimeraX, AutoDock Vina, and AutoDock
 ## Uploading the file containing Catalytic residues in MMPs
 </> Markdown
 [CATALYTIC_RESIDUES_MMPs](CATALYTIC_RESIDUES_MMPs.docx)
+</> Markdown
+CATALYTIC_RESIDUES_MMPs
