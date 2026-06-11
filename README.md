@@ -5,3 +5,5 @@ Exploring molecular docking pipeline using ChimeraX, AutoDock Vina, and AutoDock
 [PDB Database Document](PDB%20Database.docx)
 ## Uploading the file containing Catalytic residues in MMPs
 CATALYTIC_RESIDUES_MMPs
+## Uploading files with prepared MMPs structuress for Molecular Docking
+-MMPs_Prepared
