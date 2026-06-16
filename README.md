@@ -7,3 +7,5 @@ Exploring molecular docking pipeline using ChimeraX, AutoDock Vina, and AutoDock
 CATALYTIC_RESIDUES_MMPs
 ## Uploading files with prepared MMPs structuress for Molecular Docking
 -MMPs_Prepared
+## Uploading .docx file for Curcumin ligand preparation in ChimeraX 1.11.1
+-Curcumin_Prep
