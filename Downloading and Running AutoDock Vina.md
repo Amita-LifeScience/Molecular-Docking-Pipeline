@@ -17,7 +17,7 @@
 - The config.txt files will be created using notepad in windows (Discussed Elsewhere). 
 - Open the command line using the Windows key plus R keys, opening a window called Run with cmd, click OK.
 - The new window with the should have the following command prompt: C:\Users\Admin>
-- Type cd /d C:\Vina\DOCKING\MMP1 and press enter
+- Type cd /d C:\Vina\DOCKING\MMP1 and press enter, where cd means change director and /d means change drive also if you want to change drive, followed by full path of the folder where you want to go
 - If you see C:\Vina\DOCKING\MMP1 it means you have reached the docking directory.
 - For checking files in the directory, type dir and press enter
 - You should be able to see all the files i.e. .pdbqt, .txt, and .exe
